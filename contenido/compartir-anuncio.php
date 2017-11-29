@@ -1,0 +1,1 @@
+<p style="color:#949090">Compartir este anuncio: <a href=""><img src="img/icono_facebook.jpg" width="20px"></a> <a href=""><img src="img/icono_twitter.png" width="20px"></a> <a href=""><img src="img/icono_google.png" width="20px"></a></p>

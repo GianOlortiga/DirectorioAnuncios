@@ -1,0 +1,14 @@
+$(document).ready(function(){
+	$('#enviar_mensaje').click(function(){
+		$('#mensaje_prototipo').fadeIn();
+	});
+	$('#enviar-anuncio').click(function(){
+		$('#mensaje_prototipo').fadeIn();
+	});
+	$('#enviar_denuncia').click(function(){
+		$('#mensaje_prototipo').fadeIn();
+	});
+	$('#cerrar_prototipo').click(function(){
+		$('#mensaje_prototipo').fadeOut();
+	});
+});
